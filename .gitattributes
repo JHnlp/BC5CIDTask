@@ -1,1 +1,2 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
+.\lib\stanford-corenlp-3.5.2-models.jar filter=lfs diff=lfs merge=lfs -text
