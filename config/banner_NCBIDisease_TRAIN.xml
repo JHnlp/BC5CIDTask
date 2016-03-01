@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<banner-configuration>
+  <banner>
+    <eval>
+      <datasetName>banner.eval.dataset.PubtatorDataset</datasetName>
+      <dataset>
+        <dataFilename>data/Corpus.txt</dataFilename>
+        <pmidsFilename>data/NCBI_corpus_training_PMIDs.txt</pmidsFilename>
+        <foldType>Disease</foldType>
+      </dataset>
+      <idInputFilename>output/ids.txt</idInputFilename>
+      <rawInputFilename>output/raw.txt</rawInputFilename>
+      <trainingInputFilename>output/training.txt</trainingInputFilename>
+      <outputFilename>output/output.txt</outputFilename>
+      <inContextAnalysisFilename>output/contextAnalysis.html</inContextAnalysisFilename>
+      <mentionFilename>output/mention.txt</mentionFilename>
+      <modelFilename>output/model_NCBIDisease_O1_TRAIN.bin</modelFilename>
+      <lemmatiserDataDirectory>nlpdata/lemmatiser</lemmatiserDataDirectory>
+      <posTaggerDataDirectory>nlpdata/tagger</posTaggerDataDirectory>
+      <posTagger>dragon.nlp.tool.HeppleTagger</posTagger>
+      <tokenizer>banner.tokenization.SimpleTokenizer</tokenizer>
+      <useParenthesisPostProcessing>true</useParenthesisPostProcessing>
+      <useLocalAbbreviationPostProcessing>true</useLocalAbbreviationPostProcessing>
+      <useNumericNormalization>true</useNumericNormalization>
+      <tagFormat>IOB</tagFormat>
+      <crfOrder>1</crfOrder>
+      <textDirection>Forward</textDirection>
+      <mentionTypes>Required</mentionTypes>
+      <sameTypeOverlapOption>Union</sameTypeOverlapOption>
+      <differentTypeOverlapOption>Exception</differentTypeOverlapOption>
+    </eval>
+  </banner>
+</banner-configuration>
