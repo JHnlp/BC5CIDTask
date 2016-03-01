@@ -1,0 +1,14 @@
+133615	0	blood coagulation	Disease	26	43	26	43	D001778	
+133615	2	Thromboembolic	Disease	50	64	0	14	D013923	
+133615	2	oral contraceptive	Chemical	92	110	42	60	D003276	
+133615	2	blood coagulation	Disease	161	178	111	128	D001778	
+133615	3	oral contraceptives	Chemical	343	362	119	138	D003276	
+133615	4	blood coagulation	Disease	449	466	48	65	D001778	
+133615	6	blood coagulation	Disease	653	670	25	42	D001778	
+133615	6	hypercoagulability	Disease	692	710	64	82	D019851	
+133615	8	myocardial infarction	Disease	919	940	34	55	D009203	
+133615	9	retinopathy	Disease	1046	1057	22	33	D012164	
+133615	9	thrombophlebitis	Disease	1115	1131	91	107	D013924	
+133615	10	thrombophlebitis	Disease	1189	1205	29	45	D013924	
+133615	12	thromboembolic episodes	Disease	1380	1403	72	95	D013923	
+133615	13	oral contraceptive	Chemical	1551	1569	109	127	D003276	
