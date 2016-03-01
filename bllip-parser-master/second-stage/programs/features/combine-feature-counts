@@ -1,0 +1,56 @@
+#!/usr/bin/env python
+# Licensed under the Apache License, Version 2.0 (the "License"); you may
+# not use this file except in compliance with the License.  You may obtain
+# a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+# License for the specific language governing permissions and limitations
+# under the License.
+
+"""Combine multiple feature count files into one, sorting, pruning
+and renumbering the features.  This can be used on the output of
+extract-spfeatures-counts.  It should not need to be used on the output
+of extract-spfeatures."""
+import sys, getopt, gzip, bz2
+opts, args = getopt.gnu_getopt(sys.argv[1:], 't:')
+threshold = int(dict(opts).get('-t', 5))
+print >>sys.stderr, "Threshold:", threshold
+
+def opener(filename):
+    """Open files based on their extension."""
+    if filename.endswith('.gz'):
+        return gzip.GzipFile(filename)
+    elif filename.endswith('.bz2'):
+        return bz2.BZ2File(filename)
+    else:
+        return file(filename)
+
+name_to_freq = {} # { feature name : freq }
+for filename in args:
+    print >>sys.stderr, "Reading", filename
+    for line in opener(filename):
+        freq, name = line.split('\t', 1)
+        freq = int(freq)
+        name = name.strip()
+
+        name_to_freq.setdefault(name, 0)
+        name_to_freq[name] += freq
+
+print >>sys.stderr, len(name_to_freq), "unpruned features"
+feature_names = [name for name, freq in name_to_freq.iteritems()
+    if freq >= threshold]
+print >>sys.stderr, len(feature_names), "pruned features"
+
+def sorter(key):
+    # put NLogP first
+    return (key != 'NLogP 0', key)
+
+feature_names.sort(key=sorter)
+print >>sys.stderr, "Writing sorted features out..."
+
+for i, name in enumerate(feature_names):
+    print '%s\t%s' % (i, name)
