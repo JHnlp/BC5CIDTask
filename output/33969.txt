@@ -1,0 +1,27 @@
+33969|t|Ethopropazine and benztropine in neuroleptic-induced parkinsonism.
+33969|a|In a 12-week controlled study ethopropazine was compared to benztropine in the treatment of parkinsonism induced by fluphenazine enanthate in 60 schizophrenic outpatients. Ethopropazine and benztropine were found to be equally effective in controlling parkinsonian symptoms and were as efficacious as procyclidine, their previous antiparkinsonian drug. However, benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment, and significantly more anxiety and depression than ethopropazine treated patients. This suggests that benztropine is not the anticholinergic drug of choice in the treatment of neuroleptic-induced parkinsonian symptoms, because of its more toxic central and peripheral atropinic effect.
+33969	0	13	Ethopropazine	Chemical	C084820
+33969	18	29	benztropine	Chemical	D001590
+33969	53	65	parkinsonism	Disease	D010302
+33969	97	110	ethopropazine	Chemical	C084820
+33969	127	138	benztropine	Chemical	D001590
+33969	159	171	parkinsonism	Disease	D010302
+33969	183	205	fluphenazine enanthate	Chemical	C017610
+33969	212	225	schizophrenic	Disease	D012559
+33969	239	252	Ethopropazine	Chemical	C084820
+33969	257	268	benztropine	Chemical	D001590
+33969	319	340	parkinsonian symptoms	Disease	D010302
+33969	368	380	procyclidine	Chemical	D011352
+33969	429	440	benztropine	Chemical	D001590
+33969	488	506	tardive dyskinesia	Disease	D004409
+33969	542	555	procyclindine	Chemical	D011352
+33969	590	597	anxiety	Disease	D001008
+33969	602	612	depression	Disease	D003866
+33969	618	631	ethopropazine	Chemical	C084820
+33969	669	680	benztropine	Chemical	D001590
+33969	763	784	parkinsonian symptoms	Disease	D010302
+33969	CID	C017610	D010302	0.9507321946054555
+33969	CID	D001590	D001008	0.9094230859951741
+33969	CID	D001590	D003866	0.8509352329533223
+33969	CID	D001590	D004409	0.8832669839885192
+

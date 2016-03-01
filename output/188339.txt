@@ -1,0 +1,18 @@
+188339|t|Etiologic factors in the pathogenesis of liver tumors associated with oral contraceptives.
+188339|a|Within the last several years, previously rare liver tumors have been seen in young women using oral contraceptive steroids. The Registry for Liver Tumors Associated with Oral Contraceptives at the University of California, Irvine, has clearly identified 27 cases. The recent literature contains 44 case reports. Common to these 71 cases has been a histopathologic diagnosis of focal nodular hyperplasia, adenoma, hamartoma, and hepatoma. Significant statistical etiologic factors include prolonged uninterrupted usage of oral contraceptive steroids. Eight deaths and liver rupture in 18 patients attest to the seriousness of this new potentially lethal adverse phenomenon.
+188339	41	53	liver tumors	Disease	D008113
+188339	70	89	oral contraceptives	Chemical	D003276
+188339	138	150	liver tumors	Disease	D008113
+188339	187	205	oral contraceptive	Chemical	D003276
+188339	206	214	steroids	Chemical	D013256
+188339	233	245	Liver Tumors	Disease	D008113
+188339	262	281	Oral Contraceptives	Chemical	D003276
+188339	469	494	focal nodular hyperplasia	Disease	D020518
+188339	496	503	adenoma	Disease	D000236
+188339	505	514	hamartoma	Disease	D006222
+188339	520	528	hepatoma	Disease	D006528
+188339	613	631	oral contraceptive	Chemical	D003276
+188339	632	640	steroids	Chemical	D013256
+188339	665	672	rupture	Disease	D012421
+188339	CID	D003276	D008113	0.9629026440476888
+

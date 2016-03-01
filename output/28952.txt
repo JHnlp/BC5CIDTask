@@ -1,0 +1,33 @@
+28952|t|Initial potassium loss and hypokalaemia during chlorthalidone administration in patients with essential hypertension: the influence of dietary sodium restriction.
+28952|a|To investigate the initial potassium loss and development of hypokalaemia during the administration of an oral diuretic, metabolic balance studies were performed in ten patients with essential hypertension who had shown hypokalaemia under prior oral diuretic treatment. Chlorthalidone (50 mg daily) was given for 14 days. Six patients received a normal-sodium diet and four a low-sodium (17 mmol/day) diet. All patients had a normal initial total body potassium (40K). The electrolyte balances, weight, bromide space, plasma renin activity, and aldosterone secretion rate were measured. In both groups a potassium deficit developed, with proportionally larger losses from the extracellular than from the intracellular compartment. In the normal-sodium group the highest mean potassium deficit was 176 mmol on day 9, after which some potassium was regained; in the low-sodium group the highest deficit was 276 mmol on day 13. The normal-sodium group showed an immediate but temporary rise of the renin and aldosterone levels; in the low-sodium group renin and aldosterone increased more slowly but remained elevated. It is concluded that dietary sodium restriction increases diuretic-induced potassium loss, presumably by an increased activity of the renin-angiotensin-aldosterone system, while sodium delivery to the distal renal tubules remains sufficiently high to allow increased potassium secretion.
+28952	8	17	potassium	Chemical	D011188
+28952	27	39	hypokalaemia	Disease	D007008
+28952	47	61	chlorthalidone	Chemical	D002752
+28952	104	116	hypertension	Disease	D006973
+28952	143	149	sodium	Chemical	D012964
+28952	190	199	potassium	Chemical	D011188
+28952	224	236	hypokalaemia	Disease	D007008
+28952	356	368	hypertension	Disease	D006973
+28952	383	395	hypokalaemia	Disease	D007008
+28952	433	447	Chlorthalidone	Chemical	D002752
+28952	516	522	sodium	Chemical	D012964
+28952	543	549	sodium	Chemical	D012964
+28952	615	624	potassium	Chemical	D011188
+28952	708	719	aldosterone	Chemical	D000450
+28952	767	776	potassium	Chemical	D011188
+28952	908	914	sodium	Chemical	D012964
+28952	938	947	potassium	Chemical	D011188
+28952	996	1005	potassium	Chemical	D011188
+28952	1031	1037	sodium	Chemical	D012964
+28952	1099	1105	sodium	Chemical	D012964
+28952	1168	1179	aldosterone	Chemical	D000450
+28952	1199	1205	sodium	Chemical	D012964
+28952	1222	1233	aldosterone	Chemical	D000450
+28952	1308	1314	sodium	Chemical	D012964
+28952	1354	1363	potassium	Chemical	D011188
+28952	1419	1430	angiotensin	Chemical	D000809
+28952	1431	1442	aldosterone	Chemical	D000450
+28952	1457	1463	sodium	Chemical	D012964
+28952	1546	1555	potassium	Chemical	D011188
+28952	CID	D002752	D007008	0.9503796058676661
+

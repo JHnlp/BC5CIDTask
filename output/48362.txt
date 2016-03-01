@@ -1,0 +1,15 @@
+48362|t|Quinidine hepatitis.
+48362|a|Long-term administration of quinidine was associated with persistent elevation of serum concentrations of SGOT, lactic acid dehydrogenase, and alkaline phosphatase. Liver biopsy showed active hepatitis. Discontinuance of quinidine therapy led to normalization of liver function tests. A challenge dose of quinidine caused clinical symptoms and abrupt elevation of SGOT, alkaline phosphatase, and lactic acid dehydrogenase values. We concluded that this patient had quinidine hepatotoxicity and believe that this is the first case reported with liver biopsy documentation. This report also suggests that, even after long-term administration, the hepatic toxicity is reversible.
+48362	0	9	Quinidine	Chemical	D011802
+48362	10	19	hepatitis	Disease	D056486
+48362	49	58	quinidine	Chemical	D011802
+48362	133	144	lactic acid	Chemical	D019344
+48362	213	222	hepatitis	Disease	D056486
+48362	242	251	quinidine	Chemical	D011802
+48362	326	335	quinidine	Chemical	D011802
+48362	417	428	lactic acid	Chemical	D019344
+48362	486	495	quinidine	Chemical	D011802
+48362	496	510	hepatotoxicity	Disease	D056486
+48362	666	682	hepatic toxicity	Disease	D056486
+48362	CID	D011802	D056486	0.9888668689988881
+

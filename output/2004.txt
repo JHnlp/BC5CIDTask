@@ -1,0 +1,28 @@
+2004|t|Electrocardiographic changes and cardiac arrhythmias in patients receiving psychotropic drugs.
+2004|a|Eight patients had cardiac manifestations that were life-threatening in five while taking psychotropic drugs, either phenothiazines or tricyclic antidepressants. Although most patients were receiving several drugs, Mellaril (thioridazine) appeared to be responsible for five cases of ventricular tachycardia, one of which was fatal in a 35 year old woman. Supraventricular tachycardia developed in one patient receiving Thorazine (chlorpromazine). Aventyl (nortriptyline) and Elavil (amitriptyline) each produced left bundle branch block in a 73 year old woman. Electrocardiographic T and U wave abnormalities were present in most patients. The ventricular arrhythmias responded to intravenous administration of lidocaine and to direct current electric shock; ventricular pacing was required in some instances and intravenous administration of propranolol combined with ventricular pacing in one. The tachyarrhythmias generally subsided within 48 hours after administration of the drugs was stopped. Five of the eight patients were 50 years of age or younger; only one clearly had antecedent heart disease. Major cardiac arrhythmias are a potential hazard in patients without heart disease who are receiving customary therapeutic doses of psychotropic drugs. A prospective clinical trial is suggested to quantify the risk of cardiac complications to patients receiving phenothiazines or tricyclic antidepressant drugs.
+2004	33	52	cardiac arrhythmias	Disease	D001145
+2004	212	226	phenothiazines	Chemical	D010640
+2004	310	318	Mellaril	Chemical	D013881
+2004	320	332	thioridazine	Chemical	D013881
+2004	379	402	ventricular tachycardia	Disease	D017180
+2004	451	479	Supraventricular tachycardia	Disease	D013617
+2004	515	524	Thorazine	Chemical	D002746
+2004	526	540	chlorpromazine	Chemical	D002746
+2004	543	550	Aventyl	Chemical	D009661
+2004	552	565	nortriptyline	Chemical	D009661
+2004	571	577	Elavil	Chemical	D000639
+2004	579	592	amitriptyline	Chemical	D000639
+2004	608	632	left bundle branch block	Disease	D002037
+2004	740	763	ventricular arrhythmias	Disease	D001145
+2004	807	816	lidocaine	Chemical	D008012
+2004	939	950	propranolol	Chemical	D011433
+2004	996	1012	tachyarrhythmias	Disease	D013610
+2004	1187	1200	heart disease	Disease	D006331
+2004	1208	1227	cardiac arrhythmias	Disease	D001145
+2004	1271	1284	heart disease	Disease	D006331
+2004	1420	1441	cardiac complications	Disease	D005117
+2004	1464	1478	phenothiazines	Chemical	D010640
+2004	CID	D000639	D002037	0.9946901666573976
+2004	CID	D009661	D002037	0.9799996220499434
+2004	CID	D013881	D017180	0.9090057280256739
+
