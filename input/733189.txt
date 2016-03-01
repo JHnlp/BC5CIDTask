@@ -1,0 +1,16 @@
+733189|t|Bilateral retinal artery and choriocapillaris occlusion following the injection of long-acting corticosteroid suspensions in combination with other drugs: I. Clinical studies.
+733189|a|Two well-documented cases of bilateral retinal artery and choriocapillaris occlusions with blindness following head and neck soft-tissue injection with methylprednisolone acetate in combination with lidocaine, epinephrine, or penicillin are reported. One case had only a unilateral injection. The acute observations included hazy sensorium, superior gaze palsy, pupillary abnormalities, and conjunctival hemorrhages with edema. Follow-up changes showed marked visual loss, constricted visual fields, optic nerve pallor, vascular attenuation, and chorioretinal atrophy. The literature is reviewed, and possible causes are discussed.
+733189	10	55	retinal artery and choriocapillaris occlusion	Disease	D015356
+733189	95	109	corticosteroid	Chemical	D000305
+733189	215	261	retinal artery and choriocapillaris occlusions	Disease	D015356
+733189	267	276	blindness	Disease	D001766
+733189	328	354	methylprednisolone acetate	Chemical	C000873
+733189	375	384	lidocaine	Chemical	D008012
+733189	386	397	epinephrine	Chemical	D004837
+733189	402	412	penicillin	Chemical	D010406
+733189	531	536	palsy	Disease	D010243
+733189	538	561	pupillary abnormalities	Disease	D011681
+733189	580	591	hemorrhages	Disease	D006470
+733189	597	602	edema	Disease	D004487
+733189	636	647	visual loss	Disease	D014786
+733189	722	743	chorioretinal atrophy	Disease	C566236

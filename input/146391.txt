@@ -1,0 +1,20 @@
+146391|t|Pure red cell aplasia, toxic dermatitis and lymphadenopathy in a patient taking diphenylhydantoin.
+146391|a|A patient taking diphenylhydantoin for 3 weeks developed a generalized skin rash, lymphadenopathy and pure red cell aplasia. After withdrawal of the pharmacon all symptoms disappeared spontaneously. Skin rash is a well-known complication of diphenylhydantoin treatment as is benign and malignant lymphadenopathy. Pure red cell aplasia associated with diphenylhydantoin medication has been reported in 3 patients. The exact mechanism by which diphenylhydantoin exerts its toxic effects is not known. In this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash, lymphadenopathy and pure red cell aplasia is very suggestive of a direct connection.
+146391	0	21	Pure red cell aplasia	Disease	D012010
+146391	23	39	toxic dermatitis	Disease	D003875
+146391	44	59	lymphadenopathy	Disease	D008206
+146391	80	97	diphenylhydantoin	Chemical	D010672
+146391	116	133	diphenylhydantoin	Chemical	D010672
+146391	170	179	skin rash	Disease	D005076
+146391	181	196	lymphadenopathy	Disease	D008206
+146391	201	222	pure red cell aplasia	Disease	D012010
+146391	298	307	Skin rash	Disease	D005076
+146391	340	357	diphenylhydantoin	Chemical	D010672
+146391	395	410	lymphadenopathy	Disease	D008206
+146391	412	433	Pure red cell aplasia	Disease	D012010
+146391	450	467	diphenylhydantoin	Chemical	D010672
+146391	541	558	diphenylhydantoin	Chemical	D010672
+146391	657	674	diphenylhydantoin	Chemical	D010672
+146391	701	710	skin rash	Disease	D005076
+146391	712	727	lymphadenopathy	Disease	D008206
+146391	732	753	pure red cell aplasia	Disease	D012010

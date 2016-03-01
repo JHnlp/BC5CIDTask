@@ -1,0 +1,20 @@
+89511|t|Prevention and treatment of endometrial disease in climacteric women receiving oestrogen therapy.
+89511|a|The treatment regimens are described in 74 patients with endometrial disease among 850 climacteric women receiving oestrogen therapy. Cystic hyperplasia was associated with unopposed oestrogen therapy without progestagen. Two courses of 21 days of 5 mg norethisterone daily caused reversion to normal in all 57 cases of cystic hyperplasia and 6 of the 8 cases of atypical hyperplasia. 4 cases of endometrial carcinoma referred from elsewhere demonstrated the problems of inappropriate and unsupervised unopposed oestrogen therapy and the difficulty in distinguishing severe hyperplasia from malignancy. Cyclical low-dose oestrogen therapy with 7--13 days of progestagen does not seem to increase the risk of endometrial hyperplasia or carcinoma.
+89511	28	47	endometrial disease	Disease	D014591
+89511	79	88	oestrogen	Chemical	D004967
+89511	155	174	endometrial disease	Disease	D014591
+89511	213	222	oestrogen	Chemical	D004967
+89511	239	250	hyperplasia	Disease	D006965
+89511	281	290	oestrogen	Chemical	D004967
+89511	307	318	progestagen	Chemical	D011372
+89511	351	365	norethisterone	Chemical	D009640
+89511	425	436	hyperplasia	Disease	D006965
+89511	470	481	hyperplasia	Disease	D006965
+89511	494	515	endometrial carcinoma	Disease	D016889
+89511	610	619	oestrogen	Chemical	D004967
+89511	672	683	hyperplasia	Disease	D006965
+89511	689	699	malignancy	Disease	D009369
+89511	719	728	oestrogen	Chemical	D004967
+89511	756	767	progestagen	Chemical	D011372
+89511	806	829	endometrial hyperplasia	Disease	D004714
+89511	833	842	carcinoma	Disease	D002277

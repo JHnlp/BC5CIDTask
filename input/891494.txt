@@ -1,0 +1,17 @@
+891494|t|Phenytoin encephalopathy as probable idiosyncratic reaction: case report.
+891494|a|A case of phenytoin (DPH) encephalopathy with increasing seizures and EEG and mental changes is described. Despite adequate oral dosage of DPH (5 mg/kg/daily) the plasma level was very low (2.8 microgramg/ml). The encephalopathy was probably an idiosyncratic and not toxic or allergic reaction. In fact the concentration of free DPH was normal, the patient presented a retarded morbilliform rash during DPH treatment, the protidogram was normal, and an intradermic DPH injection had no local effect. The authors conclude that in a patient starting DPH treatment an unexpected increase in seizures, with EEG and mental changes occurring simultaneously, should alert the physician to the possible need for eliminating DPH from the therapeutic regimen, even if plasma concentrations are low.
+891494	0	9	Phenytoin	Chemical	D010672
+891494	10	24	encephalopathy	Disease	D001927
+891494	84	93	phenytoin	Chemical	D010672
+891494	95	98	DPH	Chemical	D010672
+891494	100	114	encephalopathy	Disease	D001927
+891494	131	139	seizures	Disease	D012640
+891494	213	216	DPH	Chemical	D010672
+891494	288	302	encephalopathy	Disease	D001927
+891494	403	406	DPH	Chemical	D010672
+891494	465	469	rash	Disease	D005076
+891494	477	480	DPH	Chemical	D010672
+891494	539	542	DPH	Chemical	D010672
+891494	622	625	DPH	Chemical	D010672
+891494	662	670	seizures	Disease	D012640
+891494	790	793	DPH	Chemical	D010672

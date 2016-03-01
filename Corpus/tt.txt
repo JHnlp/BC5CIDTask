@@ -1,0 +1,20 @@
+133615|t|Progestational agents and blood coagulation. VII. Thromboembolic and other complications of oral contraceptive therapy in relationship to pretreatment levels of blood coagulation factors: summary report of a ten-year study.
+133615|a|During a ten-year period, 348 women were studied for a total of 5,877 patient months in four separate studies relating oral contraceptives to changes in hematologic parameters. Significant increases in certain factors of the blood coagulation and fibrinolysin systems (factors I,II,VII,VIII,IX, and X and plasminogen) were observed in the treated groups. Severe complications developed in four patients. All four had an abnormal blood coagulation profile, suggesting "hypercoagulability" before initiation of therapy. Some of these findings represented the most extreme abnormalities seen in the entire group of patients; some increased further during therapy. One of these patients developed a myocardial infarction before receiving any medication, shortly after the base-line values were obtained. One patient developed retinopathy 19 months after she began therapy, and another developed thrombophlebitis after 27 months of therapy. The fourth patient developed thrombophlebitis 14 days after initiation of contraceptive therapy. All four patients were of the A or AB blood group. Previous studies suggested the possiblility of increased propensity for thromboembolic episodes in patients possessing the A antigen. It appears from these data that hematologic work-ups may be useful in women who are about to start long-term oral contraceptive therapy.
+133615	26	43	blood coagulation	Disease	D001778
+133615	50	64	Thromboembolic	Disease	D013923
+133615	92	110	oral contraceptive	Chemical	D003276
+133615	161	178	blood coagulation	Disease	D001778
+133615	343	362	oral contraceptives	Chemical	D003276
+133615	449	466	blood coagulation	Disease	D001778
+133615	653	670	blood coagulation	Disease	D001778
+133615	692	710	hypercoagulability	Disease	D019851
+133615	919	940	myocardial infarction	Disease	D009203
+133615	1046	1057	retinopathy	Disease	D012164
+133615	1115	1131	thrombophlebitis	Disease	D013924
+133615	1189	1205	thrombophlebitis	Disease	D013924
+133615	1380	1403	thromboembolic episodes	Disease	D013923
+133615	1551	1569	oral contraceptive	Chemical	D003276
+133615	CID	D003276	D001778
+133615	CID	D003276	D012164
+133615	CID	D003276	D013924
+133615	CID	D003276	D009203

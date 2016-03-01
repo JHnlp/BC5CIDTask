@@ -1,0 +1,12 @@
+816141|t|Cephalothin-induced immune hemolytic anemia.
+816141|a|A patient with renal disease developed Coombs-positive hemolytic anemia while receiving cephalothin therapy. An anti-cephalothin IgG antibody was detected in the patient's serum and in the eluates from her erythrocytes. In addition, nonimmunologic binding of normal and patient's serum proteins to her own and cephalothin-coated normal red cells was demonstrated. Skin tests and in vitro lymphocyte stimulation revealed that the patient was sensitized to cephalothin and also to ampicillin. Careful investigation of drug-induced hemolytic anemias reveals the complexity of the immune mechanisms involved.
+816141	0	11	Cephalothin	Chemical	D002512
+816141	27	43	hemolytic anemia	Disease	D000743
+816141	60	73	renal disease	Disease	D007674
+816141	100	116	hemolytic anemia	Disease	D000743
+816141	133	144	cephalothin	Chemical	D002512
+816141	162	173	cephalothin	Chemical	D002512
+816141	355	366	cephalothin	Chemical	D002512
+816141	500	511	cephalothin	Chemical	D002512
+816141	524	534	ampicillin	Chemical	D000667
+816141	574	591	hemolytic anemias	Disease	D000743

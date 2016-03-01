@@ -1,0 +1,32 @@
+9848575|t|Chronic effects of a novel synthetic anthracycline derivative (SM-5887) on normal heart and doxorubicin-induced cardiomyopathy in beagle dogs.
+9848575|a|This study was designed to investigate the chronic cardiotoxic potential of SM-5887 and a possible deteriorating effect of SM-5887 on low-grade cardiotoxicity pre-induced by doxorubicin in beagle dogs. In the chronic treatment, beagle dogs of each sex were given intravenously once every 3 weeks, either a sublethal dose of doxorubicin (1.5 mg/kg) or SM-5887 (2.5 mg/kg). The experiment was terminated 3 weeks after the ninth dosing. Animals which received over six courses of doxorubicin demonstrated the electrocardiogram (ECG) changes, decrease of blood pressure and high-grade histopathological cardiomyopathy, while animals which were terminally sacrificed after the SM-5887 administration did not show any changes in ECG, blood pressure and histopathological examinations. To examine a possibly deteriorating cardiotoxic effect of SM-5887, low-grade cardiomyopathy was induced in dogs by four courses of doxorubicin (1.5 mg/kg). Nine weeks after pre-treatment, dogs were given four courses of either doxorubicin (1.5 mg/kg) or SM-5887 (2.5 mg/kg) once every 3 weeks. The low-grade cardiotoxic changes were enhanced by the additional doxorubicin treatment. On the contrary, the SM-5887 treatment did not progress the grade of cardiomyopathy. In conclusion, SM-5887 does not have any potential of chronic cardiotoxicity and deteriorating effect on doxorubicin-induced cardiotoxicity in dogs.
+9848575	37	50	anthracycline	Chemical	D018943
+9848575	63	70	SM-5887	Chemical	C055866
+9848575	92	103	doxorubicin	Chemical	D004317
+9848575	112	126	cardiomyopathy	Disease	D009202
+9848575	194	205	cardiotoxic	Disease	D066126
+9848575	219	226	SM-5887	Chemical	C055866
+9848575	266	273	SM-5887	Chemical	C055866
+9848575	287	301	cardiotoxicity	Disease	D066126
+9848575	317	328	doxorubicin	Chemical	D004317
+9848575	467	478	doxorubicin	Chemical	D004317
+9848575	494	501	SM-5887	Chemical	C055866
+9848575	620	631	doxorubicin	Chemical	D004317
+9848575	742	756	cardiomyopathy	Disease	D009202
+9848575	815	822	SM-5887	Chemical	C055866
+9848575	958	969	cardiotoxic	Disease	D066126
+9848575	980	987	SM-5887	Chemical	C055866
+9848575	999	1013	cardiomyopathy	Disease	D009202
+9848575	1053	1064	doxorubicin	Chemical	D004317
+9848575	1149	1160	doxorubicin	Chemical	D004317
+9848575	1176	1183	SM-5887	Chemical	C055866
+9848575	1230	1241	cardiotoxic	Disease	D066126
+9848575	1282	1293	doxorubicin	Chemical	D004317
+9848575	1326	1333	SM-5887	Chemical	C055866
+9848575	1374	1388	cardiomyopathy	Disease	D009202
+9848575	1405	1412	SM-5887	Chemical	C055866
+9848575	1452	1466	cardiotoxicity	Disease	D066126
+9848575	1495	1506	doxorubicin	Chemical	D004317
+9848575	1515	1529	cardiotoxicity	Disease	D066126
+9848575	CID	D004317	D009202
+

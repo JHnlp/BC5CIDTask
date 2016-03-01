@@ -1,0 +1,27 @@
+448423|t|Recurrent subarachnoid hemorrhage associated with aminocaproic acid therapy and acute renal artery thrombosis. Case report.
+448423|a|Epsilon aminocaproic acid (EACA) has been used to prevent rebleeding in patients with subarachnoid hemorrhage (SAH). Although this agent does decrease the frequency of rebleeding, several reports have described thrombotic complications of EACA therapy. These complications have included clinical deterioration and intracranial vascular thrombosis in patients with SAH, arteriolar and capillary fibrin thrombi in patients with fibrinolytic syndromes treated with EACA, or other thromboembolic phenomena. Since intravascular fibrin thrombi are often observed in patients with fibrinolytic disorders, EACA should not be implicated in the pathogenesis of fibrin thrombi in patients with disseminated intravascular coagulation or other "consumption coagulopathies." This report describes subtotal infarction of the kidney due to thrombosis of a normal renal artery. This occlusion occurred after EACA therapy in a patient with SAH and histopathological documentation of recurrent SAH. The corresponding clinical event was characterized by marked hypertension and abrupt neurological deterioration.
+448423	10	33	subarachnoid hemorrhage	Disease	D013345
+448423	50	67	aminocaproic acid	Chemical	D000614
+448423	80	109	acute renal artery thrombosis	Disease	D007674
+448423	124	149	Epsilon aminocaproic acid	Chemical	D015119
+448423	151	155	EACA	Chemical	D015119
+448423	210	233	subarachnoid hemorrhage	Disease	D013345
+448423	235	238	SAH	Disease	D013345
+448423	335	345	thrombotic	Disease	D013927
+448423	363	367	EACA	Chemical	D015119
+448423	438	470	intracranial vascular thrombosis	Disease	D020767
+448423	488	491	SAH	Disease	D013345
+448423	525	532	thrombi	Disease	D013927
+448423	586	590	EACA	Chemical	D015119
+448423	601	625	thromboembolic phenomena	Disease	D013923
+448423	654	661	thrombi	Disease	D013927
+448423	722	726	EACA	Chemical	D015119
+448423	782	789	thrombi	Disease	D013927
+448423	807	845	disseminated intravascular coagulation	Disease	D004211
+448423	856	882	consumption coagulopathies	Disease	D004211
+448423	916	926	infarction	Disease	D007238
+448423	948	983	thrombosis of a normal renal artery	Disease	D007674
+448423	1015	1019	EACA	Chemical	D015119
+448423	1046	1049	SAH	Disease	D013345
+448423	1099	1102	SAH	Disease	D013345
+448423	1165	1177	hypertension	Disease	D006973

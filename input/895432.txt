@@ -1,0 +1,14 @@
+895432|t|Effects of exercise on the severity of isoproterenol-induced myocardial infarction.
+895432|a|The effect of exercise on the severity of isoproterenol-induced myocardial infarction was studied in male rats. Ninety-three rats were randomly divided into three groups. The exercise-isoproterenol (E-1) and exercise control (EC) groups exercised daily for thirty days on a treadmill at 1 mph, 2% grade while animals of the sedentary-isoproterenol (S-I) group remained sedentary. Eight animals were assigned to the sedentary control (SC) group which remained sedentary throughout the experimental period. Forty-eight hours after the final exercise period, S-I and E-I animals received a single subcutaneous injection of isoproterenol (250 mg/kg body weight). Animals of the S-I group exhibited significantly (Pp less than 0.05) greater mortality from the effects of isoproterenol than animals of the E-I group. Serum CPK activity for E-I animals was significantly (p less than 0.05) greater than for animals in the S-I and EC groups twenty hours following isoproterenol injection. No statistically significant differences were observed between the two isoproterenol treated groups for severity of the induced lesions, changes in heart weight, or heart weight to body weight ratios. The results indicated that exercise reduced the mortality associated with the effects of large dosages of isoproterenol but had little on the severity of the infarction.
+895432	39	52	isoproterenol	Chemical	D007545
+895432	61	82	myocardial infarction	Disease	D009203
+895432	126	139	isoproterenol	Chemical	D007545
+895432	148	169	myocardial infarction	Disease	D009203
+895432	268	281	isoproterenol	Chemical	D007545
+895432	418	431	isoproterenol	Chemical	D007545
+895432	704	717	isoproterenol	Chemical	D007545
+895432	850	863	isoproterenol	Chemical	D007545
+895432	1040	1053	isoproterenol	Chemical	D007545
+895432	1136	1149	isoproterenol	Chemical	D007545
+895432	1372	1385	isoproterenol	Chemical	D007545
+895432	1424	1434	infarction	Disease	D007238

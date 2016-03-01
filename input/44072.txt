@@ -1,0 +1,18 @@
+44072|t|On the antiarrhythmic activity of one N-substituted piperazine derivative of trans-2-amino-3-hydroxy-1, 2, 3, 4-tetrahydroanaphthalene.
+44072|a|The antiarrhythmic activity of the compound N-(trans-3-hydroxy-1,2,3,4-tetrahydro-2-naphthyl)-N-(3-oxo-3-phenyl-2-methylpropyl)-piperazine hydrochloride, referred to as P11, is studied on anaesthesized cats and Wistar albino rats, as well as on non-anaesthesized rabbits. Four types of experimental arrhythmia are used--with BaCl2, with chloroform-adrenaline, with strophantine G and with aconitine. The compound P11 is introduced in doses of 0.25 and 0.50 mg/kg intravenously and 10 mg/kg orally. The compound manifests antiarrhythmic activity in all models of experimental arrhythmia used, causing greatest inhibition on the arrhythmia induced by chloroform-adrenaline (in 90 per cent) and with BaCl2 (in 84 per cent). The results obtained are associated with the beta-adrenoblocking and with the membrane-stabilizing action of the compound.
+44072	52	62	piperazine	Chemical	C034930
+44072	77	134	trans-2-amino-3-hydroxy-1, 2, 3, 4-tetrahydroanaphthalene	Chemical	-1
+44072	180	288	N-(trans-3-hydroxy-1,2,3,4-tetrahydro-2-naphthyl)-N-(3-oxo-3-phenyl-2-methylpropyl)-piperazine hydrochloride	Chemical	C013741
+44072	305	308	P11	Chemical	C013741
+44072	435	445	arrhythmia	Disease	D001145
+44072	461	466	BaCl2	Chemical	C024986
+44072	473	483	chloroform	Chemical	D002725
+44072	484	494	adrenaline	Chemical	D004837
+44072	501	515	strophantine G	Chemical	D010042
+44072	525	534	aconitine	Chemical	D000157
+44072	549	552	P11	Chemical	C013741
+44072	711	721	arrhythmia	Disease	D001145
+44072	763	773	arrhythmia	Disease	D001145
+44072	785	795	chloroform	Chemical	D002725
+44072	796	806	adrenaline	Chemical	D004837
+44072	833	838	BaCl2	Chemical	C024986

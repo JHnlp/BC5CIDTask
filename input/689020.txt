@@ -1,0 +1,11 @@
+689020|t|A method for the measurement of tremor, and a comparison of the effects of tocolytic beta-mimetics.
+689020|a|A method permitting measurement of finger tremor as a displacement-time curve is described, using a test system with simple amplitude calibration. The coordinates of the inversion points of the displacement-time curves were transferred through graphical input equipment to punched tape. By means of a computer program, periods and amplitudes of tremor oscillations were calculated and classified. The event frequency for each class of periods and amplitudes was determined. The actions of fenoterol-hydrobromide, ritodrin-HCl and placebo given to 10 healthy subjects by intravenous infusion in a double-blind crossover study were tested by this method. At therapeutic doses both substances raised the mean tremor amplitude to about three times the control level. At the same time, the mean period within each class of amplitudes shortened by 10--20 ms, whereas the mean periods calculated from all oscillations together did not change significantly. After the end of fenoterol-hydrobromide infusion, tremor amplitudes decreased significantly faster than those following ritodrin-HCl infusion.
+689020	32	38	tremor	Disease	D014202
+689020	142	148	tremor	Disease	D014202
+689020	445	451	tremor	Disease	D014202
+689020	589	611	fenoterol-hydrobromide	Chemical	D005280
+689020	613	625	ritodrin-HCl	Chemical	D012312
+689020	806	812	tremor	Disease	D014202
+689020	1067	1089	fenoterol-hydrobromide	Chemical	D005280
+689020	1100	1106	tremor	Disease	D014202
+689020	1170	1182	ritodrin-HCl	Chemical	D012312

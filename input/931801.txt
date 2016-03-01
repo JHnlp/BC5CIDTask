@@ -1,0 +1,28 @@
+931801|t|Effect of D-Glucarates on basic antibiotic-induced renal damage in rats.
+931801|a|Dehydrated rats regularly develop acute renal failure following single injection of aminoglycoside antibiotics combined with dextran or of antibiotics only. Oral administration of 2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone protected rats against renal failure induced by kanamycin-dextran. The protective effect was prevalent among D-glucarates, and also to other saccharic acid, hexauronic acids and hexaaldonic acids, although to a lesser degree, but not to a hexaaldose, sugar alcohols, substances inthe TCA cycle and other acidic compounds. D-Glucarates were effective against renal damage induced by peptide antibiotics as well as various aminoglycoside antibitocis. Dose-responses were observed in the protective effect of D-Glucarates. With a D-glucarate of a fixed size of dose, approximately the same degree of protection was obtained against renal damages induced by different basic antibiotics despite large disparities in administration doses of different antibiotics. D-Glucarates had the ability to prevent renal damage but not to cure it. Rats excreted acidic urine when they were spared from renal lesions by monosaccharides. The reduction effect of D-glucarates against nephrotoxicity of basic antibiotics was discussed.
+931801	10	22	D-Glucarates	Chemical	D005937
+931801	51	63	renal damage	Disease	D007674
+931801	73	83	Dehydrated	Disease	D003681
+931801	107	126	acute renal failure	Disease	D058186
+931801	157	171	aminoglycoside	Chemical	D000617
+931801	253	296	2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone	Chemical	C038936
+931801	320	333	renal failure	Disease	D051437
+931801	345	354	kanamycin	Chemical	D007612
+931801	406	418	D-glucarates	Chemical	D005937
+931801	438	452	saccharic acid	Chemical	D005937
+931801	454	470	hexauronic acids	Chemical	D006603
+931801	475	492	hexaaldonic acids	Chemical	-1
+931801	548	562	sugar alcohols	Chemical	D013402
+931801	581	584	TCA	Chemical	D002952
+931801	619	631	D-Glucarates	Chemical	D005937
+931801	655	667	renal damage	Disease	D007674
+931801	718	732	aminoglycoside	Chemical	D000617
+931801	803	815	D-Glucarates	Chemical	D005937
+931801	824	835	D-glucarate	Chemical	D005937
+931801	926	939	renal damages	Disease	D007674
+931801	1055	1067	D-Glucarates	Chemical	D005937
+931801	1095	1107	renal damage	Disease	D007674
+931801	1182	1195	renal lesions	Disease	D007674
+931801	1199	1214	monosaccharides	Chemical	D009005
+931801	1240	1252	D-glucarates	Chemical	D005937
+931801	1261	1275	nephrotoxicity	Disease	D007674

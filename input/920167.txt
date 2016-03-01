@@ -1,0 +1,17 @@
+920167|t|Fetal risks due to warfarin therapy during pregnancy.
+920167|a|Two mothers with heart valve prosthesis were treated with warfarin during pregnancy. In the first case a caesarean section was done one week after replacement of warfarin with heparin. The baby died of cerebral and pulmonary hemorrhage. The second mother had a male infant by caesarean section. The baby showed warfarin-induced embryopathy with nasal hypoplasia and stippled epiphyses (chondrodysplasia punctata). Nasal hypoplasia with or without stippled epiphyses has now been reported in 11 infants born to mothers treated with warfarin during the first trimester, and a causal association is probable. In view of the risks to both mother and fetus in women with prosthetic cardiac valves it is recommended that therapeutic abortion be advised as the first alternative.
+920167	19	27	warfarin	Chemical	D014859
+920167	112	120	warfarin	Chemical	D014859
+920167	216	224	warfarin	Chemical	D014859
+920167	230	237	heparin	Chemical	D006493
+920167	256	289	cerebral and pulmonary hemorrhage	Disease	D002543
+920167	256	289	cerebral and pulmonary hemorrhage	Disease	D006470
+920167	256	289	cerebral and pulmonary hemorrhage	Disease	D008171
+920167	365	373	warfarin	Chemical	D014859
+920167	382	393	embryopathy	Disease	D005315
+920167	399	415	nasal hypoplasia	Disease	-1
+920167	420	438	stippled epiphyses	Disease	D002806
+920167	440	465	chondrodysplasia punctata	Disease	D002806
+920167	468	484	Nasal hypoplasia	Disease	-1
+920167	501	519	stippled epiphyses	Disease	D002806
+920167	585	593	warfarin	Chemical	D014859

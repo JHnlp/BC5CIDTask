@@ -1,0 +1,28 @@
+256433|t|Continuous infusion tobramycin combined with carbenicillin for infections in cancer patients.
+256433|a|The cure rate of infections in cancer patients is adversely affected by neutropenia (less than 1,000/mm3). In particular, patients with severe neutropenia (less than 100/mm3) have shown a poor response to antibiotics. To overcome the adverse effects of neutropenia, tobramycin was given by continuous infusion and combined with intermittent carbenicillin. Tobramycin was given to a total daily dose of 300 mg/m2 and carbenicillin was given at a dose of 5 gm every four hours. There were 125 infectious episodes in 116 cancer patients receiving myelosuppressive chemotherapy. The overall cure rate was 70%. Pneumonia was the most common infection and 61% of 59 episodes were cured. Gram-negative bacilli were the most common causative organisms and 69% of these infections were cured. The most common pathogen was Klebsiella pneumoniae and this, together with Escherichia coli and Pseudomonas aeruginosa, accounted for 74% of all gram-negative bacillary infections. Response was not influenced by the initial neutrophil count, with a 62% cure rate for 39 episodes associated with severe neutropenia. However, failure of the neutrophil count to increase during therapy adversely affected response. Azotemia was the major side effect recognized, and it occurred in 11% of episodes. Major azotemia (serum creatinine greater than 2.5 mg/dl or BUN greater than 50 mg/dl) occurred in only 2%. Azotemia was not related to duration of therapy or serum tobramycin concentration. This antibiotic regimen showed both therapeutic efficacy and acceptable renal toxicity for these patients.
+256433	20	30	tobramycin	Chemical	D014031
+256433	45	58	carbenicillin	Chemical	D002228
+256433	63	73	infections	Disease	D007239
+256433	77	83	cancer	Disease	D009369
+256433	111	121	infections	Disease	D007239
+256433	125	131	cancer	Disease	D009369
+256433	166	177	neutropenia	Disease	D009503
+256433	237	248	neutropenia	Disease	D009503
+256433	347	358	neutropenia	Disease	D009503
+256433	360	370	tobramycin	Chemical	D014031
+256433	435	448	carbenicillin	Chemical	D002228
+256433	450	460	Tobramycin	Chemical	D014031
+256433	510	523	carbenicillin	Chemical	D002228
+256433	612	618	cancer	Disease	D009369
+256433	700	709	Pneumonia	Disease	D011014
+256433	730	739	infection	Disease	D007239
+256433	855	865	infections	Disease	D007239
+256433	918	928	pneumoniae	Disease	D011014
+256433	1023	1057	gram-negative bacillary infections	Disease	D016905
+256433	1180	1191	neutropenia	Disease	D009503
+256433	1290	1298	Azotemia	Disease	D053099
+256433	1379	1387	azotemia	Disease	D053099
+256433	1395	1405	creatinine	Chemical	D003404
+256433	1480	1488	Azotemia	Disease	D053099
+256433	1537	1547	tobramycin	Chemical	D014031
+256433	1635	1649	renal toxicity	Disease	D007674

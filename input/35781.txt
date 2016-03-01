@@ -1,0 +1,35 @@
+35781|t|Central action of narcotic analgesics. Part IV. Noradrenergic influences on the activity of analgesics in rats.
+35781|a|The effect of clonidine, naphazoline and xylometazoline on analgesia induced by morphine, codeine, fentanyl and pentazocine, and on cataleptic effect of morphine, codine and fentanyl was studied in rats. The biochemical assays on the influence of four analgesics on the brain concentration and turnover of noradrenaline (NA) were also performed. It was found that three drugs stimulating central NA receptors failed to affect the analgesic ED50 of all antinociceptive agents and they enhanced catalepsy induced by morphine and fentanyl. Codeine catalepsy was increased by clonidine and decreased by naphazoline and xylometazoline. The brain concentration of NA was not changed by morphine and fentanyl, but one of the doses of codeine (45 mg/kg) slightly enhanced it. Pentazocine dose-dependently decreased the brain level of NA. The rate of NA turnover was not altered by analgesics except for the higher dose of fentanyl (0.2 mg/kg) following which the disappearance of NA from the brain was diminished. The results are discussed in the light of various and non-uniform data from the literature. It is suggested that in rats the brain NA plays a less important function than the other monoamines in the behavioural activity of potent analgesics.
+35781	126	135	clonidine	Chemical	D003000
+35781	137	148	naphazoline	Chemical	D009278
+35781	153	167	xylometazoline	Chemical	C009695
+35781	192	200	morphine	Chemical	D009020
+35781	202	209	codeine	Chemical	D003061
+35781	211	219	fentanyl	Chemical	D005283
+35781	224	235	pentazocine	Chemical	D010423
+35781	244	254	cataleptic	Disease	D002375
+35781	265	273	morphine	Chemical	D009020
+35781	275	281	codine	Chemical	D003061
+35781	286	294	fentanyl	Chemical	D005283
+35781	418	431	noradrenaline	Chemical	D009638
+35781	433	435	NA	Chemical	D009638
+35781	508	510	NA	Chemical	D009638
+35781	605	614	catalepsy	Disease	D002375
+35781	626	634	morphine	Chemical	D009020
+35781	639	647	fentanyl	Chemical	D005283
+35781	649	656	Codeine	Chemical	D003061
+35781	657	666	catalepsy	Disease	D002375
+35781	684	693	clonidine	Chemical	D003000
+35781	711	722	naphazoline	Chemical	D009278
+35781	727	741	xylometazoline	Chemical	C009695
+35781	770	772	NA	Chemical	D009638
+35781	792	800	morphine	Chemical	D009020
+35781	805	813	fentanyl	Chemical	D005283
+35781	839	846	codeine	Chemical	D003061
+35781	880	891	Pentazocine	Chemical	D010423
+35781	938	940	NA	Chemical	D009638
+35781	954	956	NA	Chemical	D009638
+35781	1026	1034	fentanyl	Chemical	D005283
+35781	1084	1086	NA	Chemical	D009638
+35781	1249	1251	NA	Chemical	D009638
+35781	1299	1309	monoamines	Chemical	D015306
