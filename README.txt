@@ -1,4 +1,4 @@
-## [Directory]
+[Directory]
 
 A. About
 B. Prerequisites
@@ -9,19 +9,19 @@ E. References
 
 #======================================================================================#
 
-## [About]
+A. [About]
 
 	This chemical-induced disease relation extraction tool is implemented for the BioCreative-V CID subtask. To see the details about the task, please visit http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/.
 
 
-## [Prerequisites]
+B. [Prerequisites]
 
 	Before running this relation extraction tool, please be sure of that you have installed Java8.
 
 	Make sure that you have got enough permissions to run the script "bllip-parse.sh" before running this tool.
 
 
-## [Instructions for running Demo]
+C. [Instructions for running Demo]
 
 	You can using the following command lines in the shell to run the demo:
 		java -Xmx10G -Xms10G -cp ".:%JAVA_HOME%/lib:%JAVA_HOME%/lib/dt.jar:%JAVA_HOME%/lib/tools.jar:./bin/:./lib/*" gjh.bc5.main.DemoRunner -D1
@@ -45,7 +45,7 @@ E. References
 	The files used for the demos are located in the directory "demo/examples/dataset/".
 
 
-## [Instructions for running this tool for new files]
+D. [Instructions for running this tool for new files]
 
 	Tab-delimited txt files in the Pubtator format are used as the input for relation extraction. These files should be in the directory of "input", and the corresponding output files would be showed in the directory of "output" after the processing.
 
@@ -77,6 +77,6 @@ E. References
 	If the tool cannot recognize any chemical-induced disease relation from the input file, the corresponding result file would contain none relation.
 
 
-## [References]
+E. [References]
 	Gu,J.H., Qian,L.H., and Zhou,G.D. (2015) Chemical-induced Disease Relation Extraction with Lexical Features. In Proceedings of the fifth BioCreative Challenge Evaluation Workshop, Sevilla, Spain, 220-225.
 	Gu,J.H., Qian,L.H., and Zhou,G.D. (2016) Chemical-induced Disease Relation Extraction with Various Linguistic Features, Database (Oxford).(in review)
